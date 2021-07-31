@@ -19,3 +19,12 @@ print(sample(1: 6, 1))  # rolling a die
 
 print(sample(1: 6, 2))
 print(sample(1, 6, TRUE))
+
+
+print(sum(1: 6))
+print(sum(1: 100))
+
+
+print(sqrt(4))
+print(sqrt(36))
+print(sqrt(69 * 69))

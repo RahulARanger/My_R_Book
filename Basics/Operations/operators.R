@@ -6,4 +6,3 @@ print(2 ^ 3)  # power
 print(69 %% 2)  # remainder
 
 print(69: 100)  # like python's range but end is included
-

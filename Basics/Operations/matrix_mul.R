@@ -9,6 +9,3 @@ print(right %*% left)
 # print(left %*% right)
 # above one results in the error since it doesnt follow the
 # condition for the matrix multiplication
-
-
-

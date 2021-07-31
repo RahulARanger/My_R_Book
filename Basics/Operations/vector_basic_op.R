@@ -23,9 +23,3 @@ print("Matrix Multiplication")
 print(die %*% die)  # this is for inner multiplication
 print("------------")
 print(die %o% die)  # this is for the outer multiplication
-
-
-
-
-
-

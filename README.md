@@ -3,9 +3,10 @@
 ## My Track:
 
 * Introduction
-* operators
-* recap matrix mul
-* built-in functions
+* Operators
+* Revisited Matrix Multiplication
+* Built-In functions
+* Own Functions
 
 ## Know Maths 
 

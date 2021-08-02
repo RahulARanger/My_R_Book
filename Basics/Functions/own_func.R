@@ -23,3 +23,12 @@ print(roll())
 print(roll)  # this will print the code of the function
 
 print(typeof(roll))
+
+test <- function(x = 1:6){
+  pair <- sample(x, 2, TRUE)
+  return(mean(pair))
+}
+
+print(test())
+print(test(x=10: 20))
+print(test(20: 30))

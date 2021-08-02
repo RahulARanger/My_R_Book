@@ -7,6 +7,8 @@
 * Revisited Matrix Multiplication
 * Built-In functions
 * Own Functions
+* Installing Packages
+* Loading packages
 
 ## Know Maths 
 
@@ -20,5 +22,5 @@
 
 ### Contributed Source
 
-* [crane](https://cran.r-project.org/)
+* [crane](https://cran.rstudio.com/web/packages/index.html)
 * [rdrr.io](https://rdrr.io/find/)

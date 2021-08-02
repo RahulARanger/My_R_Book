@@ -1,3 +1,5 @@
+# Base R is a R code that gets preloaded
+
 print(round(3.14567, 2))
 print(round(3.1, 3))  # it would be still 3.1
 print(round(3.13434, 0))  # converting float to int
@@ -28,3 +30,7 @@ print(sum(1: 100))
 print(sqrt(4))
 print(sqrt(36))
 print(sqrt(69 * 69))
+
+
+print(replicate(10, 2 + 2))  # replicates 2 + 2 10 times and returns it's result in vector
+print(replicate(10, sqrt(6)))

@@ -1,5 +1,5 @@
 left <- 1: 2
-right <- cbind(1: 3)
+right <- cbind(1: 3)  # converts
 
 print(left) # 1 * 2
 print(right) # 3 * 1

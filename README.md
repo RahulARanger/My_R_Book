@@ -9,8 +9,10 @@
 * Own Functions
 * Installing Packages
 * Loading packages
+* Loading Help pages for any function
+* Objects in R
 
-## Know Maths 
+## Math track 
 
 * Matrix Multiplication 
 * [Inner and Outer Product](https://math.stackexchange.com/questions/2869605/distinguishing-between-inner-product-and-outer-product-in-matrix-notation)
